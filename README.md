@@ -10,5 +10,5 @@
 multiscale geographically weighted regression, species distribution modelling, desert tortoise, ecological niche, conservation genetics
 
 
-Relevant data are hosted by ScienceBase, a public repository hosted by the U.S. Geological Survey. Data can be accessed at the followingDOI:https://doi.org/10.5066/P91V2S8C
+Relevant data are hosted by ScienceBase, a public repository hosted by the U.S. Geological Survey. Data can be accessed [here](https://doi.org/10.5066/P91V2S8C).
 
